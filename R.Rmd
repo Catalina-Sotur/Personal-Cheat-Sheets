@@ -5,6 +5,33 @@ date: "2023-02-01"
 output: html_document
 ---
 
+# Packages we might be using
+
+*library(tidyverse)*
+
+*library(ggplot2)*
+
+*library(dplyr)*
+
+*library(tibble)*
+
 # Descriptions
 
+as_tibble()
+
+ggplot()
+
+read.csv()
+
+dim()
+
+head()
+
+nrows()
+
+ncol()
+
+
 # Simple Examples
+
+
